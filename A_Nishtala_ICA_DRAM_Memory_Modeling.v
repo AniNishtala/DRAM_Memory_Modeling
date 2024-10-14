@@ -25,5 +25,4 @@ module DRAM_Memory_Modeling (
 		end
 	end
 
-// will need a second tri state buffer for inout. resolved issue
 endmodule
